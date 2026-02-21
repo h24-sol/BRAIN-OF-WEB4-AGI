@@ -19,6 +19,6 @@
 
 ## 🏗 Developer Setup
 ```bash
-git clone [https://github.com/h24-sol/BRAIN-OF-WEB4-AGI.git](https://github.com/your-username/BRAIN-OF-WEB4-AGI.git)
+git clone https://github.com/h24-sol/BRAIN-OF-WEB4-AGI.git
 pip install -r requirements.txt
 python src/main.py --mode autonomous
