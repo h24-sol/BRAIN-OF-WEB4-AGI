@@ -1,0 +1,1 @@
+The Brain of Web 4.0 ($AGI) exists to remove the 'Friction of Command.' By interpreting natural human intent and converting it into multi-step machine actions, we are building the first truly autonomous digital workforce.
